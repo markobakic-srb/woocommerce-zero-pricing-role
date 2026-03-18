@@ -3,7 +3,7 @@
  * Plugin Name: WooCommerce Zero Pricing Role
  * Plugin URI:  https://yourwebsite.com
  * Description: Creates a "Zero Pricing Role" that makes all products, shipping, and taxes free for users with that role.
- * Version:     1.0.0
+ * Version:     1.0.1
  * Author:      Marko Bakic
  * License:     GPL v2 or later
  * Text Domain: wc-zero-role
