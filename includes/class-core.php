@@ -192,4 +192,3 @@ class WZR_Core {
         <?php
     }
 }
-Fixes #1 – Add top banner and allow logout
