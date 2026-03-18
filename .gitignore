@@ -1,0 +1,34 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-*
+
+# WordPress specific
+wp-config.php
+wp-content/uploads/
+wp-content/upgrade/
+wp-content/backup-db/
+*.log
+*.sql
+*.bak
+
+# Plugin specific
+/vendor/
+/node_modules/
+composer.lock
+package-lock.json
+*.zip
+*.tar.gz
+
+# Git
+.gitignore
+.gitattributes
+.git/
+
+# Deployment
+.distignore
+.github/
