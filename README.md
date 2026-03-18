@@ -41,6 +41,11 @@ The plugin runs at high priority, but conflicts are rare. Test with your setup.
 
 ## Changelog
 
+### 1.0.1
+- Fixed issue #1: Added top banner with logout, fixed logout/login redirects
+- Styled banner with brand color #2F7F7D
+- Made banner sticky for better visibility
+
 ### 1.0.0
 - Initial release
 
